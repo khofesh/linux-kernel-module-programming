@@ -1,0 +1,37 @@
+# Linux kernel build system
+*.o
+*.ko
+*cmd
+*.dwo
+*.swp
+*.symvers
+*.mod
+*.mod.c
+modules.order
+
+# LaTeX
+_minted-lkmpg
+*.aux
+*.log
+*.out
+lkmpg.pdf
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk 
+*.fls
+
+# make4ht
+*.html
+*.svg 
+*.tmp
+*.css 
+*.4ct 
+*.4tc 
+*.dvi 
+*.lg 
+*.idv
+*.xref
+
+# format checks
+expected-format
