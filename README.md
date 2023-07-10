@@ -55,3 +55,4 @@ It's worth noting that modifying system files and kernel variables should be don
 - Understanding the Linux Kernel, Third Edition 3rd Edition
 - https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/Documentation/kbuild/modules.rst
 - https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/Documentation/admin-guide/devices.txt
+- ioctl numbers - https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/Documentation/userspace-api/ioctl/ioctl-number.rst
