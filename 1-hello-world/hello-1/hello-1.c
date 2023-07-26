@@ -2,7 +2,7 @@
  * hello-1.c - the simplest kernel module.
  */
 #include <linux/module.h> // required for all modules
-// /usr/src/kernels/6.2.15-200.fc37.x86_64/include/linux
+// /usr/src/kernels/6.3.12-200.fc38.x86_64/include/linux
 #include <linux/printk.h>
 
 int init_module()

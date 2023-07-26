@@ -4,7 +4,7 @@
       "name": "Linux",
       "includePath": [
         "${workspaceFolder}/**",
-        "/usr/src/kernels/6.2.15-200.fc37.x86_64/include/"
+        "/usr/src/kernels/6.3.12-200.fc38.x86_64/include/"
       ],
       "defines": [],
       "compilerPath": "/usr/lib64/ccache/gcc",
